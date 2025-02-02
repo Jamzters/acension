@@ -73,6 +73,7 @@ if attack3 = false and attack1 = false and distance_to_object(Oplayer) < 60 and 
 {
 	attack1 = true
 	image_index = 0
+	audio_play_sound(sound_lightattack1,1,0)
 }
 
 if chase = true
@@ -181,6 +182,12 @@ if attack3 = true
 
 if attack1 = true
 {
+	if image_index = 1
+	{
+		audio_play_sound(sound_lightattack1,1,0)
+	}
+	//making it so it only plays at the start of the frame
+	
 	attack3 = false
 	directionchose = 0
 	

@@ -29,7 +29,7 @@ attack2 = false
 
 //attack3
 {
-attack3 = true
+attack3 = false
 //dash attack
 beforeattacktime = 100
 //the time before the boss attacks the player in attack3

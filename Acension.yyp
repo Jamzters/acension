@@ -57,6 +57,7 @@
     {"id":{"name":"Roomtutorial","path":"rooms/Roomtutorial/Roomtutorial.yy",},},
     {"id":{"name":"wheeltest","path":"rooms/wheeltest/wheeltest.yy",},},
     {"id":{"name":"Sh_white","path":"shaders/Sh_white/Sh_white.yy",},},
+    {"id":{"name":"sound_dashattack","path":"sounds/sound_dashattack/sound_dashattack.yy",},},
     {"id":{"name":"sound_lightattack1","path":"sounds/sound_lightattack1/sound_lightattack1.yy",},},
     {"id":{"name":"sound_lightattack2","path":"sounds/sound_lightattack2/sound_lightattack2.yy",},},
     {"id":{"name":"sound_pressbutton1","path":"sounds/sound_pressbutton1/sound_pressbutton1.yy",},},

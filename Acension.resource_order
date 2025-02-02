@@ -34,6 +34,7 @@
     {"name":"Bossminute","order":3,"path":"rooms/Bossminute/Bossminute.yy",},
     {"name":"menu","order":2,"path":"rooms/menu/menu.yy",},
     {"name":"wheeltest","order":1,"path":"rooms/wheeltest/wheeltest.yy",},
+    {"name":"sound_dashattack","order":5,"path":"sounds/sound_dashattack/sound_dashattack.yy",},
     {"name":"sound_lightattack2","order":1,"path":"sounds/sound_lightattack2/sound_lightattack2.yy",},
     {"name":"sound_pressbutton1","order":2,"path":"sounds/sound_pressbutton1/sound_pressbutton1.yy",},
     {"name":"sound_startgame","order":3,"path":"sounds/sound_startgame/sound_startgame.yy",},

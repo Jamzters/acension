@@ -19,6 +19,7 @@ if chase = false and retreat = false
 		attack3 = true
 		directionchose = 0
 		speed = 0
+		audio_play_sound(sound_lightattack1,1,0)
 	}
 	
 //determining if the boss will attack
